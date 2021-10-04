@@ -1,3 +1,6 @@
+#Import ggplot
+library(ggplot2)
+
 # Use the mpg dataset that is built into R for demonstration purposes
 head(mpg)
 
